@@ -23,7 +23,7 @@ To get a local copy up and running, follow these simple steps:
 Clone the repository:
 Bash
 
-git clone [Your-Repo-URL-Here]
+git clone [https://github.com/Snehil208001/NewsWave]
 Open in Android Studio: Navigate to the cloned directory and open the project in Android Studio.
 Get an API Key: NewsWave uses the News API to fetch articles. You'll need to obtain a free API key from their website.
 Update API Key: Open the ApiServices.kt file located at app/src/main/java/com/example/newswave/network/ApiServices.kt and replace YOUR_API_KEY_HERE with your actual News API key:
